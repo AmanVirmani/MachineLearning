@@ -1,0 +1,13 @@
+in 
+one vs all 
+and 
+in
+ex3 prediction part
+
+
+
+i have copied ex3.m; lrcostfunction.m; oneVsAll.m;predictOneVsAll.m from solutions
+as after checking again and again i couldnt found a single difference between my code and 
+their's.
+obviously i have missed something as now submission led to full marks in the
+assignment.
